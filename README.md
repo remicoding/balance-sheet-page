@@ -12,6 +12,6 @@ The page can be viewed here: [Balance Sheet](https://remicoding.github.io/balanc
 
 For your convenience, here are screenshots of the page:
 
-![Balance Sheet Large Screenshot](img/balance-sheet-l-screen.png "Balance Shee on Large Screen")
+![Balance Sheet Large Screenshot](img/balance-sheet-l-screen.png "Balance Sheet on Large Screen")
 
-![Balance Sheet Small Screenshot](img/balance-sheet-x-screen.png "Balance Shee on Small Screen")
+![Balance Sheet Small Screenshot](img/balance-sheet-x-screen.png "Balance Sheet on Small Screen")
